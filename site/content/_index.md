@@ -30,7 +30,7 @@ values:
 contact:
   heading: Contact
   text: >-
-    I’d love to get in touch with you and hear your ideas and questions.
+    I’d love to hear from you and hear your ideas and questions.
 ---
 
 

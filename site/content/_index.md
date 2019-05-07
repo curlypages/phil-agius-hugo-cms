@@ -1,32 +1,39 @@
 ---
 title: Digital consultant and maker
 subtitle: >-
-  Pork belly shank ground round swine, fatback jerky tenderloin flank short
-  loin.
+    Helping you to deliver the right digital solution for your business
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Phil?
+  heading: About
   text: >-
-    I have worked in digital and development for nearly 20 years and have experience designing, defining, architecting and integrating technology solutions across a range of businesses and industries - from small business and startups to large corporates. My passion lies in creating technology based products and solutions. 
+    I have worked in digital and development for nearly 20 years and have experience designing, defining, architecting and integrating technology solutions across a range of businesses and industries. My passion lies in creating technology based products and solutions. 
 intro:
-  heading: What we offer
+  heading: Services
   text: >-
-    Bacon ipsum dolor amet hamburger cupim pork chop meatball, pig biltong flank
-    t-bone ribeye frankfurter porchetta. Meatloaf ham brisket tenderloin,
-    fatback chicken pork chuck ball tip burgdoggen turducken swine.
+    I provide numerous services and soutions tailored to individual business needs, helping businesses of all sizes from small business and startups to large corporates.
 services:
-  - image: img/illustrations-coffee.svg
+  - icon: keyboard
     text: >-
-      Bacon ipsum dolor amet hamburger cupim pork chop meatball, pig biltong
-      flank t-bone ribeye frankfurter porchetta.
-  - image: /img/illustrations-coffee-gear.svg
+      Website devleopment tailored for digital marketing from SEO to social. 
+  - icon: chalkboard-teacher
     text: >-
-      Meatloaf ham brisket tenderloin, fatback chicken pork chuck ball tip
-      burgdoggen turducken swine.
+      Management and support to help you get the most out of your digital presense.
+  - icon: layer-group
+    text: >-
+      Designing technical architectures for business, applications and infrastructure solutions.
+  - icon: tasks
+    text: >-
+      Defining business and technical requirements to provide value from digital solutions.
+  - icon: file-alt
+    text: >-
+      Assessing, reviewing and documenting technical implementations including providing recommendations and troubleshooting issues.
+  - icon: hands-helping
+    text: >-
+      Leading, managing and monitoring small to large teams of developers and testers across multiple disciplines.
 values:
   heading: Values
   text: >-
-    I provide no nonsense digital consulting and devlopment with out any of the rubbish. 
+    I aim provide no nonsense digital consulting and devlopment with out any rubbish, offering the right advice to help enable your business to better understand and manage their digital presense. 
 contact:
   heading: Contact
   text: >-

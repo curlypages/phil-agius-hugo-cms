@@ -11,7 +11,9 @@
 	--black: rgba(43, 37, 35, 1);
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: 'Roboto', sans-serif;
+	--font-family-mono: 'Roboto Mono', monospace;
+	--font-family-logo: 'Cutive Mono', monospace;
 	--line-height: 1.5;
 
 	--font-size: 18px;

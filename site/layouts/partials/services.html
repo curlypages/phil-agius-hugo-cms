@@ -3,14 +3,14 @@
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw8">{{.intro.text}}</p>
 
-    <div class="flex-ns mhn2-ns mb3">
+    <ul class="fa-ul">
       {{ range .services }}
-      <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
-        <p>{{.text}}</p>
-      </div>
+      <li class="mb2">
+        <span class="fa-li"><i class="fas fa-{{.icon}}"></i></span>
+        <p class="mw6 pl2">{{.text}}</p>
+      </li>
       {{ end }}
-    </div>
+    </ul>
 
   </div>
 </div>

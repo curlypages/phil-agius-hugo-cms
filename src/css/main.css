@@ -86,3 +86,15 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+.font-logo {
+    font-family: var(--font-family-logo);
+}
+
+.font-mono {
+    font-family: var(--font-family-mono);
+}
+
+.social-icon {
+    width: 16px;
+    height: 16px;
+}

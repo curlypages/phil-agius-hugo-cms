@@ -20,6 +20,10 @@ body {
   background-color: var(--off-white);
  }
 
+h1, h2, h3 {
+  font-family: var(--font-family-mono);
+}
+
 p {
   margin-bottom: var(--spacing-medium);
   max-width: 32rem;

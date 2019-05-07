@@ -95,6 +95,12 @@
 }
 
 .social-icon {
-    width: 16px;
-    height: 16px;
+    width: 17px;
+    height: 17px;
+}
+@media (--breakpoint-large) {
+    .social-icon {
+        width: 19px;
+        height: 19px;
+    }
 }

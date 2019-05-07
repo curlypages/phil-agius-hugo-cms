@@ -1,5 +1,5 @@
 ---
-title: Digital consultant and maker
+title: Accessible Digital consulting
 subtitle: >-
   Pork belly shank ground round swine, fatback jerky tenderloin flank short
   loin.
@@ -26,7 +26,7 @@ products:
       Meatloaf ham brisket tenderloin, fatback chicken pork chuck ball tip
       burgdoggen turducken swine.
 values:
-  heading: Our bacon
+  heading: Our bacon!
   text: >-
     T-bone cupim buffalo pastrami ham biltong. Pork chop capicola swine short
     ribs, pork loin beef alcatra rump beef ribs buffalo. Fatback flank tail

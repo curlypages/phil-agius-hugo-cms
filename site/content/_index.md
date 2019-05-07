@@ -1,5 +1,5 @@
 ---
-title: Accessible Digital consulting
+title: Digital consultant and maker
 subtitle: >-
   Pork belly shank ground round swine, fatback jerky tenderloin flank short
   loin.

@@ -6,7 +6,7 @@
 
 {{ partial "services" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text ) }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image ) }}
 
 {{ partial "contact-form" . }}
 

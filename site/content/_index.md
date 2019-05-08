@@ -2,13 +2,12 @@
 title: Digital consultant and maker
 subtitle: Helping you to deliver the right digital solution for your business
 image: /img/p6130080.jpg
-blurb:
+intro:
   heading: About
   text: >-
     I have worked in digital and development for nearly 20 years and have
     experience designing, defining, architecting and integrating technology
-    solutions across a range of businesses and industries. My passion lies in
-    creating technology based products and solutions. 
+    solutions across a range of businesses and industries. My passion lies in creating technology based products and solutions. 
 services:
   heading: Services
   list:
@@ -45,5 +44,9 @@ values:
     I aim provide no nonsense digital consulting and devlopment with out any
     rubbish, offering the right advice to help enable your business to better
     understand and manage their digital presense.
+contact:
+  heading: Contact
+  text: >-
+    If you've got any digital ideas, thoughts or issues I would love to hear from you. So drop me a line below and i'll endevour to get back to you soon.
 ---
 

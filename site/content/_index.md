@@ -7,29 +7,29 @@ blurb:
   heading: About
   text: >-
     I have worked in digital and development for nearly 20 years and have experience designing, defining, architecting and integrating technology solutions across a range of businesses and industries. My passion lies in creating technology based products and solutions. 
-intro:
+services:
   heading: Services
   text: >-
     I provide numerous services and soutions tailored to individual business needs, helping businesses of all sizes from small business and startups to large corporates.
-services:
-  - icon: keyboard
-    text: >-
-      Website devleopment tailored for digital marketing from SEO to social. 
-  - icon: chalkboard-teacher
-    text: >-
-      Management and support to help you get the most out of your digital presense.
-  - icon: layer-group
-    text: >-
-      Designing technical architectures for business, applications and infrastructure solutions.
-  - icon: tasks
-    text: >-
-      Defining business and technical requirements to provide value from digital solutions.
-  - icon: file-alt
-    text: >-
-      Assessing, reviewing and documenting technical implementations including providing recommendations and troubleshooting issues.
-  - icon: hands-helping
-    text: >-
-      Leading, managing and monitoring small to large teams of developers and testers across multiple disciplines.
+  list:
+    - icon: keyboard
+      text: >-
+        Website devleopment tailored for digital marketing from SEO to social. 
+    - icon: chalkboard-teacher
+      text: >-
+        Management and support to help you get the most out of your digital presense.
+    - icon: layer-group
+      text: >-
+        Designing technical architectures for business, applications and infrastructure solutions.
+    - icon: tasks
+      text: >-
+        Defining business and technical requirements to provide value from digital solutions.
+    - icon: file-alt
+      text: >-
+        Assessing, reviewing and documenting technical implementations including providing recommendations and troubleshooting issues.
+    - icon: hands-helping
+      text: >-
+        Leading, managing and monitoring small to large teams of developers and testers across multiple disciplines.
 values:
   heading: Values
   text: >-

@@ -7,6 +7,8 @@ html {
     font-size: var(--font-size-l);
   }
   background-color: var(--black);
+
+  scroll-behavior: smooth;
 }
 
 

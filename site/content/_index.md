@@ -2,7 +2,7 @@
 title: Digital consultant and maker
 subtitle: Helping you to deliver the right digital solution for your business
 image: >-
-  https://res.cloudinary.com/curlypages/image/upload/v1557711834/p6130080_hbiols.jpg
+  https://res.cloudinary.com/curlypages/image/upload/c_scale,q_auto,w_1600/v1557711834/p6130080_hbiols.jpg
 intro:
   heading: About
   text: >-

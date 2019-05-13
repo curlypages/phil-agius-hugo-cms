@@ -1,56 +1,46 @@
 ---
 title: Digital consultant and maker
-subtitle: Helping you to deliver the right digital solution for your business
+subtitle: Building the right digital solution for your business
 image: >-
   https://res.cloudinary.com/curlypages/image/upload/c_scale,q_auto,w_1600/v1557711834/p6130080_hbiols.jpg
 intro:
-  heading: About
+  heading: What I do
   text: >-
-    I have worked in digital and development for nearly 20 years and have
-    experience designing, defining, architecting and integrating technology
-    solutions across a range of businesses and industries. My passion lies in
-    creating technology based products and solutions. 
+    I provide no-nonsense digital consulting and development for businesses regardless of their size - offering you the right advice for your business needs.
 services:
   heading: Services
   list:
     - icon: keyboard
-      text: 'Website devleopment tailored for digital marketing from SEO to social. '
+      text:
+        Website devleopment tailored for digital marketing from SEO to social.
     - icon: chalkboard-teacher
       text: >-
-        Management and support to help you get the most out of your digital
-        presense.
+        Consulting and support to help you get the most out of your digital presence.
     - icon: layer-group
       text: >-
-        Designing technical architectures for business, applications and
-        infrastructure solutions.
+        Consulting and design of technical architecture and infrastructure for your business or application.
     - icon: tasks
       text: >-
-        Defining business and technical requirements to provide value from
-        digital solutions.
+        Defining business and technical requirements for digital solutions.
     - icon: file-alt
       text: >-
-        Assessing, reviewing and documenting technical implementations including
-        providing recommendations and troubleshooting issues.
+        Assessing and documenting technical solutions to help you get the right result.
     - icon: hands-helping
       text: >-
-        Leading, managing and monitoring small to large teams of developers and
-        testers across multiple disciplines.
+        Leading small to large development teams across multiple disciplines and locations.
   text: >-
-    I provide numerous services and soutions tailored to individual business
-    needs, helping businesses of all sizes from small business and startups to
-    large corporates.
+    I provide a wide range of services and solutions tailored to your individual business needs, and work with clients of all sizes from small business and startups to large corporates. 
+    
+    I can help you with:
 values:
-  heading: Values
+  heading: About Me
   image: >-
     https://res.cloudinary.com/curlypages/image/upload/c_scale,h_320,q_auto/v1557711833/p2140240_p1zh1w.jpg
   text: >-
-    I aim provide no nonsense digital consulting and devlopment with out any
-    rubbish, offering the right advice to help enable your business to better
-    understand and manage their digital presense.
+    I have worked in digital development for nearly 20 years and have experience designing, defining, architecting and integrating technology solutions for a wide range of businesses and industries. Get in touch to talk about how I can support your business best.
 contact:
   heading: Contact
   text: >-
-    If you've got any digital ideas, thoughts or issues I would love to hear
-    from you. So drop me a line below and i'll endevour to get back to you soon.
+    I would love to hear from you. Drop me a line below and I'll get back to you soon.
 ---
 

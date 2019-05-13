@@ -1,6 +1,13 @@
 backend:
   name: git-gateway
 
+media_library:
+  name: cloudinary
+  output_filename_only: true
+  config:
+    cloud_name: curlypages
+    api_key: 563866822349165
+
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 

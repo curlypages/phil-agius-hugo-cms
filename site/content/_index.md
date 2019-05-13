@@ -41,7 +41,8 @@ services:
     large corporates.
 values:
   heading: Values
-  image: /img/p2140240.jpg
+  image: >-
+    https://res.cloudinary.com/curlypages/image/upload/c_scale,h_320,q_auto/v1557711833/p2140240_p1zh1w.jpg
   text: >-
     I aim provide no nonsense digital consulting and devlopment with out any
     rubbish, offering the right advice to help enable your business to better

@@ -2,7 +2,7 @@
 title: Digital consultant and maker
 subtitle: Helping you to deliver the right digital solution for your business
 image: >-
-  https://res.cloudinary.com/curlypages/image/upload/v1557711834/p6130080_hbiols.jpg
+  https://res.cloudinary.com/curlypages/image/upload/c_scale,q_auto,w_1600/v1557711834/p6130080_hbiols.jpg
 intro:
   heading: About
   text: >-
@@ -41,7 +41,8 @@ services:
     large corporates.
 values:
   heading: Values
-  image: /img/p2140240.jpg
+  image: >-
+    https://res.cloudinary.com/curlypages/image/upload/c_scale,h_320,q_auto/v1557711833/p2140240_p1zh1w.jpg
   text: >-
     I aim provide no nonsense digital consulting and devlopment with out any
     rubbish, offering the right advice to help enable your business to better

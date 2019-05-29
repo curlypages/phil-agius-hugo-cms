@@ -40,8 +40,6 @@ services:
     I can help you with:
 values:
   heading: About Me
-  image: >-
-    https://res.cloudinary.com/curlypages/image/upload/c_scale,h_320,q_auto/v1557711833/p2140240_p1zh1w.jpg
   text: >-
     I have worked in digital development for nearly 20 years and have experience
     designing, defining, architecting and integrating technology solutions for a
@@ -49,6 +47,8 @@ values:
     can support your business best.
 contact:
   heading: Contact
+  image: >-
+    https://res.cloudinary.com/curlypages/image/upload/c_scale,h_320,q_auto/v1557711833/p2140240_p1zh1w.jpg
   text: >-
     I would love to hear from you. Drop me a line below and I'll get back to you
     soon.

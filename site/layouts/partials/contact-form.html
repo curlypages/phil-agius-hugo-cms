@@ -1,49 +1,53 @@
 <!-- Contact -->
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
-      <h2 class="f2 b lh-title mb2">{{ .Params.contact.heading }}</h2>
-		<div class="flex-ns mb3">
-      <p>{{ .Params.contact.text }}</p>
-		</div>
+<div class="bg-off-white pv4">
+  <div class="mhn1-l ph3 center mw7">
+    <h2 class="f3 b lh-title mb2">{{ .Params.contact.heading }}</h2>
+    <div class="flex-l mhn2-l">
+      <div class="w-60-l">
+        <p class=" mw7 ">{{ .Params.contact.text }}</p>
+        <div class="mb4">
 
-		<div class="mb4">
+          <form name="phil-agius-contact" method="POST" data-netlify="true" netlify-honeypot="woot">
+            <p class="dn">
+              <label>Don’t fill this out if you're human: <input name="woot" /></label>
+            </p>
+            <div class="flex-l mhn1-l">
+              <!-- Name -->
+              <div class="pr1-l w-50-l">
+                <fieldset>
+                  <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2" required>
+                  <label for="name">Name</label>
+                </fieldset>
+              </div>
+              <!-- Email -->
+              <div class="pl1-l w-50-l">
+                <fieldset>
+                  <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2" required>
+                  <label for="email">Email</label>
+                </fieldset>
+              </div>
+            </div>
 
-      <form name="phil-agius-contact" method="POST" data-netlify="true" netlify-honeypot="woot">
-        <p class="dn">
-          <label>Don’t fill this out if you're human: <input name="woot" /></label>
-        </p>
-        <div class="flex-l mhn1-l">
-          <!-- Name -->
-          <div class="ph1-l w-50-l">
+            <!-- Message -->
             <fieldset>
-              <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2" required>
-              <label for="name">Name</label>
+              <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80"
+                class="w-100"></textarea>
+              <label for="message">Your message</label>
             </fieldset>
-          </div>
-          <!-- Email -->
-          <div class="ph1-l w-50-l">
-            <fieldset>
-              <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2" required>
-              <label for="email">Email</label>
-            </fieldset>
-          </div>
+
+            <!-- Button -->
+            <div class="">
+              <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+            </div>
+          </form>
         </div>
 
-        <!-- Message -->
-        <fieldset>
-          <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
-          <label for="message">Your message</label>
-        </fieldset>
+      </div>
 
-        <!-- Button -->
-        <div class="tc">
-          <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
-        </div>
-      </form>
+      <div class="w-40-l pl2-l db-l dn">
+        <img src="{{.Params.contact.image}}" alt="">
+      </div>
     </div>
-
-	</div>
+  </div>
 </div>
-
-

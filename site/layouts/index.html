@@ -6,7 +6,7 @@
 <a id="services"></a>
 {{ partial "services" .Params }}
 <a id="values"></a>
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image ) }}
+{{ partial "short-text" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image ) }}
 <a id="contact"></a>
 {{ partial "contact-form" . }}
 

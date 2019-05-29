@@ -8,9 +8,6 @@ media_library:
     cloud_name: curlypages
     api_key: 563866822349165
 
-# media_folder: "site/static/img" # Folder where user uploaded files should go
-# public_folder: "img"
-
 collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
@@ -33,8 +30,8 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Icon", name: "icon", widget: "string"}]}]}
           - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"},
-              {label: "Image", name: "image", widget: "image"}]}
+              {label: "Text", name: "text", widget: "text"}]}
           - {label: "Contact", name: contact, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Image", name: "image", widget: "image"}]}

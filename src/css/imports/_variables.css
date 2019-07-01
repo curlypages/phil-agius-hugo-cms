@@ -12,8 +12,8 @@
 
 	/* Typography */
 	--font-family: 'Roboto', sans-serif;
-	--font-family-mono: 'Roboto Mono', monospace;
-	--font-family-logo: 'Cutive Mono', monospace;
+	--font-family-mono: 'Roboto Mono', monospace, sans-serif;
+	--font-family-logo: 'Cutive Mono', monospace, sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
